@@ -1,2 +1,2 @@
-# foodmeasurement
-This Project is make to practise my nuxt 3 learning and website development.
+#Pratice react
+This repository is for practicing my react.
